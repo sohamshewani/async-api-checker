@@ -1,0 +1,12 @@
+click
+httpx
+rich
+pytest
+pytest-cov
+pytest-mock
+pytest-asyncio
+aiofiles
+aiohttp
+black
+mypy
+fastapi
